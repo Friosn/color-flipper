@@ -1,2 +1,2 @@
 # color-flipper
-Creating a color flipper using Vite
+Creating a color flipper using Vite 🎨
